@@ -8,9 +8,9 @@ const port = 3001;
 
 const pool = new Pool({
     user: "postgres", 
-    host: "db",
+    host: "dpg-ctadchogph6c73enq96g-a",
     database: "gestion_libros",
-    password: "Trocha2004", 
+    password: "dpg-ctadchogph6c73enq96g-a", 
     port: 5432,
 });
 
